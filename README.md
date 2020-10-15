@@ -9,4 +9,4 @@
 
 🔭 I’m currently working on [gambling.com](https://www.gambling.com/ "gambling.com")
 
-🌱 I’m currently learning [laravel](https://laravel.com/)
+🌱 I’m currently learning [Laravel 5.8](https://laravel.com/)
