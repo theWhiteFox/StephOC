@@ -1,6 +1,6 @@
 # Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-![](https://komarev.com/ghpvc/?username=StephOC&color=e24c38)[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+![](https://komarev.com/ghpvc/?username=StephOC&color=e24c38) [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
 
 <details>
   - <summary>GitHub Stats 📊</summary>
