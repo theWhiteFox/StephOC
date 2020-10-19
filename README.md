@@ -1,6 +1,6 @@
 # Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-![](https://komarev.com/ghpvc/?username=StephOC&color=e24c38)
+![](https://komarev.com/ghpvc/?username=StephOC&color=e24c38)[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
 
 <details>
   - <summary>GitHub Stats 📊</summary>
@@ -10,9 +10,6 @@
 🔭 I’m currently working on [gambling.com](https://www.gambling.com/ "gambling.com")
 
 🌱 I’m currently learning [Laravel 5.8](https://laravel.com/)
-
-#### NPM  
-[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
