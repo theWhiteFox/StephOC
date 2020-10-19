@@ -10,3 +10,8 @@
 🔭 I’m currently working on [gambling.com](https://www.gambling.com/ "gambling.com")
 
 🌱 I’m currently learning [Laravel 5.8](https://laravel.com/)
+
+#### NPM  
+[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+
+
