@@ -1,5 +1,5 @@
 # Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> 
-![](https://komarev.com/ghpvc/?username=StephOC&color=e24c38)
+![](https://komarev.com/ghpvc/?username=StephOC&color=d87e62)
 
 <details>
   - <summary>GitHub Stats 📊</summary>
