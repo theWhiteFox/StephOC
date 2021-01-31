@@ -11,6 +11,7 @@
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/php-%5E7.1.3-blue" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
+  <img alt="VueJS" src="https://img.shields.io/badge/VueJS-2.6.12-green" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
