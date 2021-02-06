@@ -21,4 +21,4 @@
   <img alt="NPM" src="https://img.shields.io/npm/v/npm.svg?style=flat" />
 </p>
 
-Personal [GitHub thewhitefox](https://github.com/thewhitefox)
+Personal [GitHub theWhiteFox](https://github.com/thewhitefox)
