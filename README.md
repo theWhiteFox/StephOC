@@ -20,3 +20,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/npm/v/npm.svg?style=flat" />
 </p>
+
+Personal [GitHub thewhitefox](https://github.com/thewhitefox)
