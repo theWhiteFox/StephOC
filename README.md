@@ -5,7 +5,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=StephOC&show_icons=true&theme=radical&line_height=27">
 </details>
 
-🔭 I’m currently working with Gambling.com Group on several sites inculding [gambling.com](https://www.gambling.com/ "gambling.com") 
+🔭 I’m currently working with Gambling.com Group on several sites including [gambling.com](https://www.gambling.com/ "gambling.com") 
 
 🌱 I’m currently learning [Laravel 5.8](https://laravel.com/) & [VueJS.org](https://vuejs.org/)
 
