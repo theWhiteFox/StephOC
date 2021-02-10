@@ -1,6 +1,6 @@
-💻 Web Developer 🚀
 
-# Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> ![](https://komarev.com/ghpvc/?username=StephOC&color=a62a23)
+
+# Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> ![](https://komarev.com/ghpvc/?username=StephOC&color=a62a23) 💻 Web DEVELOPER 🚀
 
 <details>
   - <summary>GitHub Stats 📊</summary>
