@@ -3,7 +3,7 @@
 # Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> ![](https://komarev.com/ghpvc/?username=StephOC&color=a62a23) 💻 Web DEVELOPER 🚀
 
 <details>
-  - <summary>GitHub Stats 📊</summary>
+  <summary>GitHub Stats 📊</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=StephOC&show_icons=true&theme=radical&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephOC&show_icons=true&theme=radical&line_height=27">
 </details>
