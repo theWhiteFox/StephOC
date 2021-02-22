@@ -5,7 +5,7 @@
 <details>
   - <summary>GitHub Stats 📊</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=StephOC&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephOC&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephOC&show_icons=true&theme=radical&line_height=27">
 </details>
 
 🔭 I’m currently working with Gambling.com Group on several sites including [gambling.com](https://www.gambling.com/ "gambling.com") 
