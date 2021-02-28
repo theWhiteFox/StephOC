@@ -1,8 +1,8 @@
 
 
-#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi !! 💻 Web DEVELOPER 🚀
+#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi ! 💻 Web DEVELOPER 🚀
 
-[](https://komarev.com/ghpvc/?username=StephOC&color=a62a23)
+![](https://komarev.com/ghpvc/?username=StephOC&color=a62a23)
 
 <details>
   <summary>GitHub Stats 📊</summary>
