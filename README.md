@@ -1,6 +1,6 @@
 
 
-#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi ! 💻 Web DEVELOPER 🚀
+# 💻 Web DEVELOPER 🚀
 
 ![](https://komarev.com/ghpvc/?username=StephOC&color=a62a23)
 
