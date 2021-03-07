@@ -28,6 +28,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/npm/v/npm.svg?style=flat" />
-  <img alt="Sequel Pro" src="https://img.shields.io/badge/Sequel%20Pro-1.1.2-%23c5cdd3" />
+  <img alt="Sequel Pro" src="https://img.shields.io/badge/Sequel%20Pro-1.1-%23c5cdd3" />
 
 Personal [GitHub theWhiteFox](https://github.com/thewhitefox)
